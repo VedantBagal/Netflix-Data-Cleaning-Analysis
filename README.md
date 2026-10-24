@@ -180,7 +180,3 @@ Netflix-Data-Analysis/
 - Extend the analysis to cover genre-wise viewership trends.
 
 ---
-
-## 🔗 Repository Link
-
-[https://github.com/jay51211/Netflix-Data-Cleaning-Analysis](https://github.com/jay51211/Netflix-Data-Cleaning-Analysis)
